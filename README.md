@@ -1,0 +1,1 @@
+# gobject_sample
